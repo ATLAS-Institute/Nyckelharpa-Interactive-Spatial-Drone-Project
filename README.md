@@ -18,6 +18,14 @@ Henry Richardson - Audio Frequency Lab Assistant
 Sandra Wong - Nyckelharpa musician  
 Jerry Laiserin - Spatial audio equipment donation   
 
+## Instructions 
+Download zip from Github code icon  
+Unzip and you have the following files:  
+nyckelharpa-drone-compostion.wav  - audio file of drone performance composition    
+nyckelharpa-spatial-drone.pdf  - pdf of project description and screen shots of components  
+Nyckelharpa.dsbundle  - nyckelharpa sampled instrument requires Decent Sampler, instructions below  
+one_JOY.ino  - Arduino code for interactive joystick midi  
+
 Downloading Decent Sampler:  
 Press on the link below.  
 https://www.decentsamples.com/product/decent-sampler-plugin/  
